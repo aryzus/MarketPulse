@@ -1,4 +1,4 @@
-MarketPulse
+# MarketPulse
 
 > Autonomous market intelligence — fetch live NSE/BSE data, run technical analysis on Nifty 50 stocks, and generate a professional PDF report from a single plain English query.
 
